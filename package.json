@@ -1,0 +1,27 @@
+{
+  "name": "settr",
+  "version": "1.0.0",
+  "description": "dice control",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nineisten/settr.git"
+  },
+  "keywords": [
+    "dice",
+    "control",
+    "dice",
+    "setting",
+    "craps",
+    "throwing"
+  ],
+  "author": "Evandon Jones/NineIsTen Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nineisten/settr/issues"
+  },
+  "homepage": "https://github.com/nineisten/settr#readme"
+}
